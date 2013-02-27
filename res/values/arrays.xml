@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ViewMode">
+        <item>Grid View</item>
+        <item>List View</item>
+    </string-array>
+    <string-array name="ViewModevalue">
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="SortBy">
+        <item>Book title</item>
+        <item>Last download</item>
+    </string-array>
+    <string-array name="SortByValue">
+        <item>10</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="ScrollMode">
+        <item>Horizontal scroll</item>
+        <item>Vertical scroll </item>
+        <item>Curl animation </item>
+    </string-array>
+    <string-array name="ScrollModevalue">
+        <item>11</item>
+        <item>22</item>
+        <item>33</item>
+    </string-array>
+    <string-array name="entries_list_preference">
+        <item>Alpha Option 01</item>
+        <item>Beta Option 02</item>
+        <item>Charlie Option 03</item>
+    </string-array>
+    <string-array name="entryvalues_list_preference">
+        <item>alpha</item>
+        <item>beta</item>
+        <item>charlie</item>
+    </string-array>
+
+</resources>
